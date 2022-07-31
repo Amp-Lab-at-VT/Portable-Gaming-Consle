@@ -19,7 +19,7 @@ show_sidebar: false
 Matt Deane
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Portable-Gaming-Consle"" >Portable-Gaming-Consle</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Portable-Gaming-Consle" >Portable-Gaming-Consle</a>
 
 ## Photo
 
