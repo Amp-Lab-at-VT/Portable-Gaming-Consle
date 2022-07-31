@@ -4,7 +4,7 @@ title: Portable Gaming Consle
 description: This project uses a LattePanda micro computer placed in a custom designed frame to create a portable gaming console.
 date: 2000-02-25 09:00:00
 hero_image: /web/img/Portable-Gaming-Consle/Hero.png
-image: /web/img/Portable-Gaming-Consle/Hero.png
+# image /web/img/Portable-Gaming-Consle/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
